@@ -11,8 +11,8 @@
 - Threads
 
 ## Projetos
----
-## Lista de Alunos
+
+### Lista de Alunos
 
 - Adiciona alunos, 
 - adiciona materias,
